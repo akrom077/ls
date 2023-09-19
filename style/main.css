@@ -1,0 +1,11 @@
+body {
+  background: url(../img/green.jpg) no-repeat ;
+  height: 1000px;
+}
+.header__div {
+  display: flex;
+  justify-content: space-between;
+}
+.div__1{
+  display: flex;
+}
